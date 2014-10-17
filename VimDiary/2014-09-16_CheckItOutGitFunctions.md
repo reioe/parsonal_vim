@@ -28,7 +28,7 @@
 :Gblame
 ``` 
 
-![fugitive_blame](./Images/fugitive_blame.JPG)
+![fugitive_blame](./Images/fugitive_blame.jpg)
 なんか出た！かっこいいぞ！
 
 チケットレビューの時に変更箇所を見分けたり、障害対応で経緯を聞くときに書いた人がすぐに分かっていいかも？
@@ -41,7 +41,7 @@
 :Gdiff
 ``` 
 
-![fugitive_diff](./Images/fugitive_diff.JPG)
+![fugitive_diff](./Images/fugitive_diff.jpg)
 これもなんかでたけど、この画面の前に失敗したって言われたよ!自然言語+全角文字だからとか？
 
 編集していくと色がついてきたけど、対応の追従がいまいち…

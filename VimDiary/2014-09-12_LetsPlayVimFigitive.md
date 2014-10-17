@@ -85,7 +85,7 @@ vimが色づけしてくれる。blameは行毎に誰がいつ書いたか表示してくれるよ。
 :Gstatus
 ```
 
-![fugitive_console](./Images/fugitive_console.jpg)
+![fugitive_console](./Images/fugitive_console.JPG)
 なんか表示されたよ。
 
 
@@ -121,7 +121,7 @@ vimが色づけしてくれる。blameは行毎に誰がいつ書いたか表示してくれるよ。
 このファイルもコミットに含めてしまったので、書き終わらないうちにコミットされちゃうよ！
 
 console画面で、:writeすることでコミット確定。また別のコンソールが出てきたよ。
-![fugitive_commit](./Images/fugitive_commit.jpg)
+![fugitive_commit](./Images/fugitive_commit.JPG)
 
 ### git push
 
