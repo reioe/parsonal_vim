@@ -1,39 +1,20 @@
 # Vim
 
-## vim-fugitive覚書
-せっかくなのでVimからGitしよう
- * [ダウンロードしてプラグインを入れる](https://github.com/tpope/vim-fugitive)
+主にVimに関する覚書を日記として書いていくリポジトリです。
+すぐ忘れるからなー。
 
-### コマンド
-[参考1](http://yuku-tech.hatenablog.com/entry/20110427/1303868482)
-[参考2](http://threetreeslight.com/post/56296194503/fugitive-vim)
+あと、もうちょっと頑張ったらVimScriptとかを入れていくかも!
 
-新しい窓を作ってgit statusを表示
- * ：Gstatus
+## モ・ク・ジ
 
-現在開いているソースをgit add
- * ：Gwrite
-
-現在開いているソースの直前のコミット時のソースを表示
- * ：Gread
-
-現在開いているソースをgit mvする
- * ：Gmove destination/path
-
-現在開いているソースをgit rmする
- * ：Gremove
-
-git commit
- * ：Gcommit
-
-git push
- * :Git push origin master
-
-現在のソースをgit blame。vimが色づけしてくれる
- * ：Gblame
-
-現在のソースの変更点をvimdiffで表示
- * ：Gdiff
-
-ヘルプ表示
- * :help fugitive
+|[2014-09-05_VimCorrectYourMistakesInSecretly.md](VimDiary/2014-09-05_VimCorrectYourMistakesInSecretly.md)|Vimはこっそり君の間違いを正してくれる       |
+|:--------------------------------------------------------------------------------------------------------|:-------------------------------------------|
+|[2014-09-05_VimCorrectYourMistakesInSecretly.md](VimDiary/2014-09-05_VimCorrectYourMistakesInSecretly.md)|Vimはこっそり君の間違いを正してくれる       |
+|[2014-09-10_WallsOfVim.md](VimDiary/2014-09-10_WallsOfVim.md)                                            |Vimの壁(1)                                  |
+|[2014-09-12_LetsPlayVimFigitive.md](VimDiary/2014-09-12_LetsPlayVimFigitive.md)                          |vim-fugitiveで遊ぼう                        |
+|[2014-09-16_CheckItOutGitFunctions.md](VimDiary/2014-09-16_CheckItOutGitFunctions.md)                    |Gitの機能をvim-fugitiveで確認しよう         |
+|[2014-09-22_EtcetraForWriteTracWiki.md](VimDiary/2014-09-22_EtcetraForWriteTracWiki.md)                  |TracWikiを書くことについてのエトセトラ      |
+|[2014-10-17_RemenberTheVimMacro.md](VimDiary/2014-10-17_RemenberTheVimMacro.md)                          |VimMacroを忘れない                          |
+|[2014-11-07_StractureOfJavascriptInVim.md](VimDiary/2014-11-07_StractureOfJavascriptInVim.md)            |VimのJavaScript開発環境を整える             |
+|[2014-12-17_AlignInVim_PartOfMarkUpTable.md](VimDiary/2014-12-17_AlignInVim_PartOfMarkUpTable.md)        |コード整形 in Vim マークアップテーブル構造編|
+|[2014-12-22_UseTag.md](VimDiary/2014-12-22_UseTag.md)                                                    |Tagを使え                                   |
