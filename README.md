@@ -7,7 +7,7 @@
 
 ## モ・ク・ジ
 
-|[2014-09-05_VimCorrectYourMistakesInSecretly.md](VimDiary/2014-09-05_VimCorrectYourMistakesInSecretly.md)|Vimはこっそり君の間違いを正してくれる       |
+|Buffer                                                                                                   |Title                                       |
 |:--------------------------------------------------------------------------------------------------------|:-------------------------------------------|
 |[2014-09-05_VimCorrectYourMistakesInSecretly.md](VimDiary/2014-09-05_VimCorrectYourMistakesInSecretly.md)|Vimはこっそり君の間違いを正してくれる       |
 |[2014-09-10_WallsOfVim.md](VimDiary/2014-09-10_WallsOfVim.md)                                            |Vimの壁(1)                                  |
